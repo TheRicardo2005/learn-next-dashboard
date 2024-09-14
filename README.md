@@ -1,5 +1,11 @@
-## Next.js App Router Course - Starter
+## Next.js App Router Course Dashboard - Starter ⭐
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+[![next](Google "next")](http://https://images.app.goo.gl/NHTUQj5vT2KjdqGM9 "next")
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Esta es la plantilla de inicio para el curso de enrutador de aplicaciones de Next.js. Contiene el código de inicio para la aplicación del panel de control.
+
+Para obtener más información, consulte el [programa del curso](https://nextjs.org/learn) en el sitio web de Next.js.
+
+####Instalar Dependecias
+
+    pnpm i
