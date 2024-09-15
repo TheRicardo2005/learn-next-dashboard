@@ -1,4 +1,11 @@
+import { NextAuthConfig } from 'next-auth';
 
+interface AuthCallbacks {
+    authorized(params: {
+        auth: { user?: any }; // Ajusta el tipo de `user` según lo que esperas en tu contexto
+        request: { nextUrl: URL };
+    }): boolean | Response;
+}
 
 export const authConfig = {
     pages: {
