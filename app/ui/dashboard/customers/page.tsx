@@ -1,4 +1,15 @@
+import { Metadata } from 'next';
+ 
+export const metadata: Metadata = {
+  title: 'Customers | Acme Dashboard',
+};
+
 export default function page() {
-    return <h1>Page Customer</h1>;
+
+    return (
+        <main>
+            
+        </main>
+    )
 }
 
