@@ -1,4 +1,4 @@
-## Next.js App Router Course Dashboard - Starter ⭐
+# Next.js App Router Course Dashboard - Starter ⭐
 
 ![next-js-logo-920x341](https://github.com/user-attachments/assets/98bd216f-643b-45d9-8b6e-abd143b208ac)
 
@@ -9,3 +9,21 @@ Para obtener más información, consulte el [programa del curso](https://nextjs.
 ####Instalar Dependecias
 
     pnpm i
+
+### Iniciar Servidor de desarrollo
+
+    pnpm run dev
+
+### Construye el código fuente de tu aplicación
+
+    pnpm build
+
+### Inicia la aplicación o el servidor en un entorno de producción
+
+    pnpm start
+
+## Usuario
+
+- Email: user@nextmail.com
+- Contraseña: 123456
+
